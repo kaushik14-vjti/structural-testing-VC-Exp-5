@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1674106003869" clover="3.2.0">
+  <project timestamp="1674106003869" name="All files">
+    <metrics statements="20" coveredstatements="20" conditionals="8" coveredconditionals="8" methods="5" coveredmethods="5" elements="33" coveredelements="33" complexity="0" loc="20" ncloc="20" packages="1" files="1" classes="1"/>
+    <file name="calculator.js" path="C:\Users\ACER\Desktop\VC exp 5\src\calculator.js">
+      <metrics statements="20" coveredstatements="20" conditionals="8" coveredconditionals="8" methods="5" coveredmethods="5"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="23" count="5" type="cond" truecount="2" falsecount="0"/>
+      <line num="24" count="1" type="stmt"/>
+      <line num="26" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="27" count="1" type="stmt"/>
+      <line num="29" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="30" count="1" type="stmt"/>
+      <line num="32" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="33" count="1" type="stmt"/>
+      <line num="36" count="1" type="stmt"/>
+      <line num="38" count="4" type="stmt"/>
+      <line num="42" count="2" type="stmt"/>
+      <line num="45" count="2" type="stmt"/>
+      <line num="48" count="2" type="stmt"/>
+      <line num="51" count="2" type="stmt"/>
+      <line num="54" count="1" type="stmt"/>
+      <line num="56" count="1" type="stmt"/>
+      <line num="57" count="1" type="stmt"/>
+      <line num="58" count="1" type="stmt"/>
+      <line num="59" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
